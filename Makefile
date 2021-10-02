@@ -53,6 +53,7 @@ BBLAYERS ?= \
 	$(CURDIR)/meta-satdreamgr \
 	$(CURDIR)/meta-edision \
 	$(CURDIR)/meta-dream \
+	$(CURDIR)/meta-dreambox \
 	$(CURDIR)/meta-vuplus \
 	$(CURDIR)/meta-xp \
 	$(CURDIR)/meta-xtrend \
